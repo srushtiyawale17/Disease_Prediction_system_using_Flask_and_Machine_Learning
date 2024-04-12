@@ -1,0 +1,2 @@
+# Disease_Prediction_system_using_Flask_and_Machine_Learning
+Disease Prediction and Doctor recommendation system using Flask and Machine Learning Algorithms
